@@ -1,1 +1,2 @@
 # parking-management-system
+The parking management system project using Python is an efficient and effective way of managing parking spaces. It automates the process of parking management, reducing the workload of the management team. The system is easy to use and provides real-time updates to the admin and users. It also helps in reducing the time taken for parking and improves the overall parking experience.
